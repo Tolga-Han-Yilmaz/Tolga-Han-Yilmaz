@@ -31,7 +31,7 @@
 <a href = "https://www.linkedin.com/in/tolga-han-y%C4%B1lmaz-2b79961ba/" targer = "_blank"> <img src="./Ekran görüntüsü 2021-12-31 040113.png" width="50px"></a>
 
 
-[![D1183-Mustafa's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tolga-Han-Yilmaz&theme=tokyonight)](https://git.io/praveenscience)
+[![Tolga-Han-Yilmaz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tolga-Han-Yilmaz&theme=tokyonight)](https://git.io/praveenscience)
 
 <p align="center">
 <a href="https://github.com/Tolga-Han-Yilmaz">
