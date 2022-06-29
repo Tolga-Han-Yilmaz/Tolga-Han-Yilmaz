@@ -21,7 +21,7 @@
 
 <h1>JAVASCRİPT Projects</h1>   
 
-<a href="https://github.com/Tolga-Han-Yilmaz/JAVASCRİPT_Projects" style="color: #fff;text-decoration: none;"><img src="./html-css-button.png" alt="html-css"></a>
+<a href="https://github.com/Tolga-Han-Yilmaz/JAVASCR-PT_Projects" style="color: #fff;text-decoration: none;"><img src="./html-css-button.png" alt="html-css"></a>
 
 
 
