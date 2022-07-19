@@ -15,26 +15,25 @@
 
 <div align="center">
 
-<h1>HTML CSS Projects</h1>   
+<h1>HTML CSS PROJECTS</h1>
 
 <a href="https://github.com/Tolga-Han-Yilmaz/HTML_CSS_Projects" style="color: #fff;text-decoration: none;"><img src="./html-css-button.png" alt="html-css"></a>
 
-<h1>JAVASCRİPT Projects</h1>   
+<h1>JAVASCRIPT PROJECTS</h1>
 
-<a href="https://github.com/Tolga-Han-Yilmaz/JAVASCR-PT_Projects" style="color: #fff;text-decoration: none;"><img src="./html-css-button.png" alt="html-css"></a>
+<a href="https://github.com/Tolga-Han-Yilmaz/JAVASCRIPT_Projects" style="color: #fff;text-decoration: none;"><img src="./javascript.png" alt="html-css"></a>
 
+<h1>REACT PROJECTS</h1>
 
-
+<a href="https://github.com/Tolga-Han-Yilmaz/REACT-PROJECTS" style="color: #fff;text-decoration: none;"><img src="./react.png" alt="html-css"></a>
 
 </div>
-
 
 <br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <a href = "https://www.linkedin.com/in/tolga-han-y%C4%B1lmaz-2b79961ba/" targer = "_blank"> <img src="./Ekran görüntüsü 2021-12-31 040113.png" width="50px"></a>
-
 
 [![Tolga-Han-Yilmaz's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tolga-Han-Yilmaz&theme=tokyonight)](https://git.io/praveenscience)
 
@@ -46,4 +45,3 @@
 </p>
 
 <p align="right"><img src="https://github.com/Tolga-Han-Yilmaz/Tolga-Han-Yilmaz/blob/main/kedi.gif" width="70px"> <img src="https://komarev.com/ghpvc/?username=Tolga-Han-Yilmaz"            alt="Tolga-Han-Yilmaz" /> </p>
-
