@@ -6,7 +6,10 @@
                 <td>🏠 I’m currently living at Manisa, in Turkey</td>
             </tr>
             <tr>
-                <td><p>👨‍💻 I'm currently learning software at <a href = "https://clarusway.com" target = "_blank"> Clarusway </a>.</td>
+                <td><p>👨‍💻 I’m interested in Web Development.</td>
+            </tr>
+            <tr>
+                <td><p>👨‍💻  I’m currently improving my React, JavaScript, Python, HTML, CSS, Bootstrap skills.</td>
             </tr>
         </table>
 </div>
