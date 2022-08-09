@@ -1,5 +1,3 @@
-<p  align="center"><a href="#">My Resume</a></p>
-</hr>
 <div align="center">
         <table>
             <tr>
