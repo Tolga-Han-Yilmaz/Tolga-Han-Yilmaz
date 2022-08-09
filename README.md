@@ -9,7 +9,7 @@
                 <td><p>👨‍💻 I’m interested in Web Development.</td>
             </tr>
             <tr>
-                <td><p>👨‍💻  I’m currently improving my React, JavaScript, Python, HTML, CSS, Bootstrap skills.</td>
+                <td><p>👨‍💻  I’m currently improving my React, JavaScript, Python, HTML, CSS, Bootstrap, Material UI skills.</td>
             </tr>
         </table>
 </div>
