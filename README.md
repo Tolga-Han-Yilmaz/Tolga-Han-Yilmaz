@@ -1,7 +1,6 @@
 <div align="center">
         <table>
-            <tr>
-                
+           
             <tr>
                 <td><p>👨‍💻 I’m interested in Web Development.</td>
             </tr>
