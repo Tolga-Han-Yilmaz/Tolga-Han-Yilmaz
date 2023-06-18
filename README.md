@@ -1,13 +1,12 @@
 <div align="center">
         <table>
             <tr>
-                <td>🏠 I’m currently living at Manisa, in Turkey</td>
-            </tr>
+                
             <tr>
                 <td><p>👨‍💻 I’m interested in Web Development.</td>
             </tr>
             <tr>
-                <td><p>👨‍💻  I’m currently improving my React, JavaScript, Python, HTML, CSS, Bootstrap, Material UI skills.</td>
+                <td><p>👨‍💻  I’m currently improving my React,Next.js, JavaScript,Typscript, Python, HTML, CSS, Tailwind, Bootstrap, Material UI skills.</td>
             </tr>
         </table>
 </div>
