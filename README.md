@@ -1,13 +1,14 @@
 <div align="center">
-        <table>
-           
+
+<table>
             <tr>
-                <td><p>👨‍💻 I’m interested in Web Development.</td>
+                <td><p>👨‍💻 I’m interested in Web Development.</p></td>
             </tr>
             <tr>
-                <td><p>👨‍💻  I’m currently improving my React,Next.js, JavaScript,Typscript, Python, HTML, CSS, Tailwind, Bootstrap, Material UI skills.</td>
+                <td><p>👨‍💻  I’m currently improving my React,Next.js, JavaScript,Typscript, Python, HTML, CSS, Tailwind, Bootstrap, Material UI skills.</p></td>
             </tr>
-        </table>
+ </table>
+
 </div>
 
 <br>
